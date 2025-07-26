@@ -31,10 +31,10 @@ Provide the information requested below. Then (1) save this markdown (md) file, 
 
 Provide the information requested below:
 
-- Last name:
-- First (or preferred) name:
-- Favorite food:
-- Favorite recent Netflix movie or show:
+- Last name: Wang
+- First (or preferred) name: Harrison
+- Favorite food: Double cheeseburger in Mcdonald's
+- Favorite recent Netflix movie or show: Shameless. Also I love "For all mankind" on Apple TV+
 
 ---
 
